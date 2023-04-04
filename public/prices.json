@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "Basic",
+      "price": 30,
+      "features": ["Access to cardio equipment", "Weightlifting area", "Locker room"]
+    },
+    {
+      "id": 2,
+      "name": "Standard",
+      "price": 50,
+      "features": ["Access to all equipment", "Group fitness classes", "Towel service"]
+    },
+    {
+      "id": 3,
+      "name": "Premium",
+      "price": 80,
+      "features": ["Personal training sessions", "Sauna and steam room", "Smoothie bar", "unlimited classes"]
+    }
+  ]
+  
